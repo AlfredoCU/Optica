@@ -1,0 +1,37 @@
+
+UPDATE PRODUCTO  SET Stock = Stock - Cantidad FROM PRODUCTO
+JOIN COMPRA ON COMPRA.[Id Compra] = PRODUCTO.[Id Producto]
+
+
+INSERT INTO COMPRA VALUES (2, 1, 1, 5,'Fecha', 80)
+
+GO
+
+DELETE  PRODUCTO FROM COMPRA
+WHERE [Id Compra] = 1 AND (PRODUCTO.Stock = PRODUCTO.Stock + Cantidad)
+
+SELECT * FROM COMPRA
+SELECT * FROM PRODUCTO
+GO
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+UPDATE PRODUCTO  SET Stock = Stock - Cantidad FROM PRODUCTO
+JOIN COMPRA ON COMPRA.[Id Compra] = PRODUCTO.[Id Producto]
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UPDATE PRODUCTO  SET Stock = Stock - Cantidad FROM PRODUCTO
+JOIN COMPRA ON COMPRA.[Id Compra] = PRODUCTO.[Id Producto]
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+UPDATE PRODUCTO  SET Stock = Stock + Cantidad FROM PRODUCTO
+JOIN COMPRA ON COMPRA.[Id Compra] = 1
+
+DELETE FROM COMPRA
+WHERE COMPRA.[Id Compra] = 2

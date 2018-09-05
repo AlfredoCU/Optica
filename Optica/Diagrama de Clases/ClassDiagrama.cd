@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Optica.Clases.Asistente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAggAQCBAAAQQIAAAAAAAEAAAAAAABAQCEQAIAAA=</HashCode>
+      <FileName>Clases\Asistente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Clases.Compra">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAggAAAgAAAYAAABAAIAAEAAAAQAAAAQSAAAAAAA=</HashCode>
+      <FileName>Clases\Compra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Clases.Examen">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAggAAAAAAAQAAASAAAQAEIAAAAAAAAVGAAAAAAA=</HashCode>
+      <FileName>Clases\Examen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Clases.Paciente">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAggAAAAAAQQAAQAAAAABEAIAAAAAAAYCAAQAAAA=</HashCode>
+      <FileName>Clases\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Clases.Producto">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgBgoAAAAAAAQgAAAAQAAAEABAAJAAAAQCAAAAAAA=</HashCode>
+      <FileName>Clases\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Conexion">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Doctor">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgwAgCAAAA4AIABAIAAAEAAAAAAYAAQCAAAAAAA=</HashCode>
+      <FileName>Clases\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Program">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Clases\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Login">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAACAABQQAgACAAAUCAQAAAEAmggAAAAAgAAA=</HashCode>
+      <FileName>Pantallas\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Main">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAAECICQAAAQQAYiGAAACQAAAAABgQAABAgQQAAA=</HashCode>
+      <FileName>Pantallas\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.Empleados">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rMudJUDVinhGA3CFaWfFOf16c6/X2I2td4EmRpbP0F8=</HashCode>
+      <FileName>Pantallas\Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.OpticaInformacion">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhAAACAAABAAAACAAAACAAAACAAAQAAAAgBAAAA=</HashCode>
+      <FileName>Pantallas\OpticaInformacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.OpticaMisionVisionValores">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIiAAAEAACAEAACAAAAGAAAQAAoAABAAAA=</HashCode>
+      <FileName>Pantallas\OpticaMisionVisionValores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.Pacientes">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>bQwgJsWa4C9usRRRCjjegoQj7AAzIjo6hUMVjFeTayc=</HashCode>
+      <FileName>Pantallas\Pacientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.Servicios">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XCUcWKb5COgk7zIhCsvKOfgjqNPsgRTiaqIjOkBIBgQ=</HashCode>
+      <FileName>Pantallas\Servicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.VerDoctores">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Optica.Pantallas.VerDoctores.enviar" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerDoctores.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBBChAACAQAACACAACAIAAAAAESAgAAAAAABA=</HashCode>
+      <FileName>Pantallas\VerDoctores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.VerExamen">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Optica.Pantallas.VerExamen.enviarId" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerExamen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Optica.Pantallas.VerExamen.enviarNom" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerExamen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Optica.Pantallas.VerExamen.enviarCos" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerExamen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAADAIEgCQBACMAABCoAAAgAAAAAAAIAAAIgI=</HashCode>
+      <FileName>Pantallas\VerExamen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.VerPacientes">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Optica.Pantallas.VerPacientes.enviar" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerPacientes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACgAACAAAQCEAAACAIAAAhgQAEAICAAAAAA=</HashCode>
+      <FileName>Pantallas\VerPacientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Pantallas.VerProducto">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Optica.Pantallas.VerProducto.enviarIdP" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerProducto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Optica.Pantallas.VerProducto.enviarNomP" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerProducto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Optica.Pantallas.VerProducto.enviarCosP" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pantallas\VerProducto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAWBAAABCAgEAIBBACgBgCCAACBAQAAAAABCAAAAAA=</HashCode>
+      <FileName>Pantallas\VerProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Properties.Resources">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Properties.Settings">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Reporte.dsPrincipal">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Optica.Reporte.dsPrincipal.reporteFacturaCompraRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Optica.Reporte.dsPrincipal.reporteFacturaCompraDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Optica.Reporte.dsPrincipal.reporteFacturaCompraRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Optica.Reporte.dsPrincipal.reporteFacturaCompraRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAABAgCQBgAAAAAAAMAhBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Reporte.Reportes">
+    <Position X="18" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAAAACACAACAAAAAAAAACAgAAAABAA=</HashCode>
+      <FileName>Reporte\Reportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Reporte.dsPrincipalTableAdapters.reporteFacturaCompraTableAdapter">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Optica.Reporte.dsPrincipalTableAdapters.TableAdapterManager">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Optica.Reporte.dsPrincipalTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Optica.Reporte.dsPrincipalTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

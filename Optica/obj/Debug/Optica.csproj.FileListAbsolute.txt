@@ -1,0 +1,96 @@
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\bin\Debug\Optica.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\bin\Debug\Optica.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\bin\Debug\Optica.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.OpticaInformacion.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.Empleados.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Main.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Login.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.Pacientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.Servicios.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.OpticaMisionVisionValores.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.VerDoctores.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.VerPacientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.VerExamen.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Pantallas.VerProducto.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Visión\Optica\obj\Debug\Optica.Reporte.Reportes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\bin\Debug\Optica.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\bin\Debug\Optica.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\bin\Debug\Optica.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaInformacion.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Empleados.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Main.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Login.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaMisionVisionValores.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Pacientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Servicios.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerDoctores.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerExamen.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerPacientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerProducto.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Reporte.Reportes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\Optica.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Seminario de Solución de Problemas de Base de Datos\Proyecto\Programa\Óptica Industrial\Optica\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\bin\Debug\Optica.exe.config
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.exe
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.pdb
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\bin\Debug\Optica.exe
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\bin\Debug\Optica.pdb
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaInformacion.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Empleados.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Main.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Login.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaMisionVisionValores.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Pacientes.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Servicios.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerDoctores.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerExamen.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerPacientes.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerProducto.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.Reporte.Reportes.resources
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\Optica.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Desktop\Programa\Óptica Industrial\Optica\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\bin\Debug\Optica.exe.config
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.exe
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.pdb
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\bin\Debug\Optica.exe
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\bin\Debug\Optica.pdb
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaInformacion.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Empleados.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Main.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Login.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.OpticaMisionVisionValores.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Pacientes.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.Servicios.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerDoctores.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerExamen.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerPacientes.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Pantallas.VerProducto.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.Reporte.Reportes.resources
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\Optica.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Desktop\Óptica Industrial\Optica\obj\Debug\RdlCompile.compiled
