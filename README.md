@@ -1,4 +1,4 @@
-# Optica.
+# Óptica.
 
 - Administrador de asistentes, doctores, exámenes y venta de productos de una óptica.
 
